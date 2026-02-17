@@ -1,0 +1,1 @@
+// Generate resume usecase
