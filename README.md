@@ -153,7 +153,3 @@ MIT License © CVSpark AI
 
 ---
 
-## 👨‍💻 Author
-
-**CVSpark AI**
-AI Resume Builder Platform
